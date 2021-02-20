@@ -6,6 +6,14 @@ hero: "/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
 author: Allen Ginsberg
 
 ---
+[https://sitejs.org/](https://sitejs.org/ "https://sitejs.org/")
+
+[https://sustywp.com/](https://sustywp.com/ "https://sustywp.com/")
+
+[https://thoughtbot.com/blog/so-you-wanna-create-an-eco-friendly-website](https://thoughtbot.com/blog/so-you-wanna-create-an-eco-friendly-website "https://thoughtbot.com/blog/so-you-wanna-create-an-eco-friendly-website")
+
+[https://solar.lowtechmagazine.com/fr/about.html](https://solar.lowtechmagazine.com/fr/about.html "https://solar.lowtechmagazine.com/fr/about.html")
+
 I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
 
 Jack Kerouac sat beside me on a busted rusty iron pole, companion, we thought the same thoughts of the soul, bleak and blue and sad-eyed, surrounded by the gnarled steel roots of trees of machinery.
