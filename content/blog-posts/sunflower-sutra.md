@@ -14,6 +14,8 @@ author: Allen Ginsberg
 
 [https://solar.lowtechmagazine.com/fr/about.html](https://solar.lowtechmagazine.com/fr/about.html "https://solar.lowtechmagazine.com/fr/about.html")
 
+[https://gauthierroussilhe.com/fr/posts/convert-low-tech](https://gauthierroussilhe.com/fr/posts/convert-low-tech "https://gauthierroussilhe.com/fr/posts/convert-low-tech")
+
 I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
 
 Jack Kerouac sat beside me on a busted rusty iron pole, companion, we thought the same thoughts of the soul, bleak and blue and sad-eyed, surrounded by the gnarled steel roots of trees of machinery.
