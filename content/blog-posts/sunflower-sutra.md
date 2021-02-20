@@ -1,5 +1,5 @@
 ---
-title: Sunflower Sutra
+title: Construire un site low-tech
 date: 2019-07-16T19:17:43.000+00:00
 type: blog
 hero: "/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
