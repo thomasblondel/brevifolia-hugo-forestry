@@ -1,5 +1,5 @@
 ---
-title: Comment vivre sans smartphone ?
+title: Vivre sans smartphone
 date: 2019-08-16T19:15:34.000+00:00
 type: blog
 author: Friedrich Nietzsche
