@@ -7,7 +7,7 @@ author: Thomas Blondel
 draft: true
 
 ---
-Je suis designer, pas développeur. Je voulais écrire un peu sur un tas de sujet. Je ne voulais pas me prendre la tête à coder ou galérer dans un outil car je n'ai pas le temps pour ça.
+Je voulais écrire un peu sur un tas de sujet. Je suis designer, pas développeur. Je ne me voyais pas d'écrire sur LinkedIn, Medium ou autre (histoire d'être maître de mon contenu). Je ne voulais pas me prendre la tête à coder ou galérer dans un outil. Je n'ai pas le temps pour ça.
 
 Mes critères de recherche :
 
