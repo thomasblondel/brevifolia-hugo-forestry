@@ -1,5 +1,5 @@
 ---
-title: Pourquoi je n'ai plus de smartphone.
+title: Abandonner son smartphone
 date: 2019-07-11T20:11:17.000+00:00
 type: blog
 author: Henry Thoreau
