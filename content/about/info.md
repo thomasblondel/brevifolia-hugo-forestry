@@ -11,6 +11,4 @@ contact_info:
 type: ''
 
 ---
-## This is made with [Forestry](https://forestry.io/ "Forestry.io") & [Hugo](https://gohugo.io/ "Hugo SSG").
-
-## To get started, import this site into Forestry or checkout the repository [here](https://github.com/kendallstrautman/starter-blog-hugo "forestry starter blog hugo").
+Conscient des enjeux actuels, j'aspire à concevoir des produits et des services numériques ayant un impact positif sur la société et l'environnement pour un futur désirable.
